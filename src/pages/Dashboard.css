@@ -1,28 +1,28 @@
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
 
 :root {
-  --bg-page: #f7f8fa;
+  --bg-page: #f3f4f6;
   --bg-surface: #ffffff;
-  --bg-muted: #f2f4f7;
-  --border-subtle: #e6e8ef;
+  --bg-muted: #f3f4f6;
+  --border-subtle: #d1d5db;
 
-  --plum-primary: #822266;
-  --plum-hover: #6d1b55;
-  --plum-soft: #f0d8e9;
-  --plum-avatar: #e6cde0;
+  --plum-primary: #8a2a78;
+  --plum-hover: #732164;
+  --plum-soft: #e8d4e4;
+  --plum-avatar: #d0aac9;
 
-  --yellow-accent: #fcd748;
-  --yellow-soft: #fef0b8;
+  --yellow-accent: #ffd749;
+  --yellow-soft: #ffefbe;
 
-  --text-primary: #14171f;
-  --text-secondary: #5a6270;
-  --text-muted: #6e7685;
+  --text-primary: #111827;
+  --text-secondary: #4b5563;
+  --text-muted: #9ca3af;
 
   --radius-card: 18px;
   --radius-md: 12px;
   --radius-sm: 10px;
   --radius-pill: 999px;
-  --shadow-card: 0 4px 18px rgba(16, 24, 40, 0.035);
+  --shadow-card: 0 4px 18px rgba(17, 24, 39, 0.035);
 }
 
 .app-shell {
